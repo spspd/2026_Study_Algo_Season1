@@ -19,7 +19,6 @@
 | **삽입 (Insert)** | `add(e)` / `offer(e)` | **$O(\log n)$** | 힙 트리 재구조화 발생 |
 | **삭제 (Remove)** | `remove()` / `poll()` | **$O(\log n)$** | 루트 제거 후 재구조화 발생 |
 | **확인 (Examine)** | `element()` / `peek()` | **$O(1)$** | 루트 노드 즉시 반환 |
-| **특정값 삭제** | `remove(object)` | **$O(n)$** | 순차 탐색 후 삭제 필요 |
 
 <br>
 
