@@ -39,3 +39,10 @@
     <img width="1115" height="626" alt="image" src="https://github.com/user-attachments/assets/f3dac4e9-4355-41dc-8132-f656e52597e8" />
     <img width="1114" height="626" alt="image" src="https://github.com/user-attachments/assets/0cf657ce-7e7f-4e2b-993e-7fb7a17ea11c" />
   </details>
+
+* 과제 문제인 [BOJ 1655 가운데를 말해요](https://www.acmicpc.net/problem/1655) 문제의 풀이 접근 방법을 해설해주었습니다.
+
+# 과제
+
+* [BOJ 1655 가운데를 말해요](https://www.acmicpc.net/problem/1655)
+
